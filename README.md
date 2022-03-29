@@ -1,2 +1,3 @@
-# BF
-백엔드 스터디
+# Sphincter
+### 규칙
+- 1Day 1PR
